@@ -10,3 +10,9 @@ python app.py
 For model weights, you can access them here:
 https://drive.google.com/drive/folders/1oTVD4C_WoJrBuP23Y0F6lhIIdpZSkObc?usp=sharing
 
+GitHub Repositories we used/built upon:
+* Used: Make Your Own Sprites: Aliasing-Aware and Cell-Controllable Pixelization (https://github.com/WuZongWei6/Pixelization) 
+* Built Upon: Wuerstchen (https://github.com/dome272/Wuerstchen)
+    * Modified Stage C Training Loop from using DDP to using Single GPU, also added Custom Dataset
+    * Used given Inference Script
+
