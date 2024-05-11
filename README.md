@@ -9,6 +9,8 @@ python app.py
 
 For model weights, you can access them here:
 https://drive.google.com/drive/folders/1oTVD4C_WoJrBuP23Y0F6lhIIdpZSkObc?usp=sharing
+- ensure all libraries are installed 
+- place the two weights files in the directory: ./weights/ 
 
 GitHub Repositories we used/built upon:
 * Used: Make Your Own Sprites: Aliasing-Aware and Cell-Controllable Pixelization (https://github.com/WuZongWei6/Pixelization) 
